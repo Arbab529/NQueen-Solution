@@ -1,0 +1,7 @@
+D:\projects\Visual Code\Visual Code\bin\Debug\Visual Code.exe
+D:\projects\Visual Code\Visual Code\bin\Debug\Visual Code.pdb
+D:\projects\Visual Code\Visual Code\obj\x86\Debug\Visual_Code.Form1.resources
+D:\projects\Visual Code\Visual Code\obj\x86\Debug\Visual_Code.Properties.Resources.resources
+D:\projects\Visual Code\Visual Code\obj\x86\Debug\Visual Code.csproj.GenerateResource.Cache
+D:\projects\Visual Code\Visual Code\obj\x86\Debug\Visual Code.exe
+D:\projects\Visual Code\Visual Code\obj\x86\Debug\Visual Code.pdb
