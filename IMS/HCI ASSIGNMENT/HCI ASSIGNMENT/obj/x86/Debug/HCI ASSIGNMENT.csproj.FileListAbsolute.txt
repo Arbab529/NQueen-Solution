@@ -1,0 +1,36 @@
+D:\projects\HCI project\HCI ASSIGNMENT\HCI ASSIGNMENT\bin\Debug\HCI ASSIGNMENT.exe
+D:\projects\HCI project\HCI ASSIGNMENT\HCI ASSIGNMENT\bin\Debug\HCI ASSIGNMENT.pdb
+D:\projects\HCI project\HCI ASSIGNMENT\HCI ASSIGNMENT\obj\x86\Debug\HCI_ASSIGNMENT.Form1.resources
+D:\projects\HCI project\HCI ASSIGNMENT\HCI ASSIGNMENT\obj\x86\Debug\HCI_ASSIGNMENT.Properties.Resources.resources
+D:\projects\HCI project\HCI ASSIGNMENT\HCI ASSIGNMENT\obj\x86\Debug\HCI ASSIGNMENT.csproj.GenerateResource.Cache
+D:\projects\HCI project\HCI ASSIGNMENT\HCI ASSIGNMENT\obj\x86\Debug\HCI ASSIGNMENT.exe
+D:\projects\HCI project\HCI ASSIGNMENT\HCI ASSIGNMENT\obj\x86\Debug\HCI ASSIGNMENT.pdb
+D:\projects\HCI project\HCI ASSIGNMENT\HCI ASSIGNMENT\obj\x86\Debug\HCI ASSIGNMENT.csprojResolveAssemblyReference.cache
+D:\projects\HCI project\HCI ASSIGNMENT\HCI ASSIGNMENT\obj\x86\Debug\HCI_ASSIGNMENT.login.resources
+D:\projects\HCI project\HCI ASSIGNMENT\HCI ASSIGNMENT\obj\x86\Debug\HCI_ASSIGNMENT.signup.resources
+D:\projects\HCI project\HCI ASSIGNMENT\HCI ASSIGNMENT\obj\x86\Debug\HCI_ASSIGNMENT.adminlist.resources
+D:\projects\HCI project\HCI ASSIGNMENT\HCI ASSIGNMENT\obj\x86\Debug\HCI_ASSIGNMENT.customer_item.resources
+D:\projects\HCI project\HCI ASSIGNMENT\HCI ASSIGNMENT\obj\x86\Debug\HCI_ASSIGNMENT.SearchItem.resources
+D:\projects\HCI project\HCI ASSIGNMENT\HCI ASSIGNMENT\obj\x86\Debug\HCI_ASSIGNMENT.additem.resources
+D:\projects\HCI project\HCI ASSIGNMENT\HCI ASSIGNMENT\obj\x86\Debug\HCI_ASSIGNMENT.delete.resources
+D:\projects\HCI project\HCI ASSIGNMENT\HCI ASSIGNMENT\obj\x86\Debug\HCI_ASSIGNMENT.modifyitem.resources
+D:\projects\HCI project\HCI ASSIGNMENT\HCI ASSIGNMENT\obj\x86\Debug\HCI_ASSIGNMENT.userbuy.resources
+D:\projects\HCI project\HCI ASSIGNMENT\HCI ASSIGNMENT\obj\x86\Debug\HCI_ASSIGNMENT.usersearch.resources
+E:\IMS\HCI ASSIGNMENT\HCI ASSIGNMENT\obj\x86\Debug\HCI ASSIGNMENT.exe
+E:\IMS\HCI ASSIGNMENT\HCI ASSIGNMENT\obj\x86\Debug\HCI ASSIGNMENT.pdb
+E:\IMS\HCI ASSIGNMENT\HCI ASSIGNMENT\bin\Debug\HCI ASSIGNMENT.exe
+E:\IMS\HCI ASSIGNMENT\HCI ASSIGNMENT\bin\Debug\HCI ASSIGNMENT.pdb
+E:\IMS\HCI ASSIGNMENT\HCI ASSIGNMENT\obj\x86\Debug\HCI_ASSIGNMENT.adminlist.resources
+E:\IMS\HCI ASSIGNMENT\HCI ASSIGNMENT\obj\x86\Debug\HCI_ASSIGNMENT.customer_item.resources
+E:\IMS\HCI ASSIGNMENT\HCI ASSIGNMENT\obj\x86\Debug\HCI_ASSIGNMENT.Form1.resources
+E:\IMS\HCI ASSIGNMENT\HCI ASSIGNMENT\obj\x86\Debug\HCI_ASSIGNMENT.login.resources
+E:\IMS\HCI ASSIGNMENT\HCI ASSIGNMENT\obj\x86\Debug\HCI_ASSIGNMENT.Properties.Resources.resources
+E:\IMS\HCI ASSIGNMENT\HCI ASSIGNMENT\obj\x86\Debug\HCI_ASSIGNMENT.signup.resources
+E:\IMS\HCI ASSIGNMENT\HCI ASSIGNMENT\obj\x86\Debug\HCI ASSIGNMENT.csproj.GenerateResource.Cache
+E:\IMS\HCI ASSIGNMENT\HCI ASSIGNMENT\obj\x86\Debug\HCI_ASSIGNMENT.feedback.resources
+E:\IMS\Project IMS\HCI ASSIGNMENT\obj\x86\Debug\HCI ASSIGNMENT.exe
+E:\IMS\Project IMS\HCI ASSIGNMENT\obj\x86\Debug\HCI ASSIGNMENT.pdb
+E:\IMS\HCI ASSIGNMENT\HCI ASSIGNMENT\obj\x86\Debug\HCI ASSIGNMENT.csprojAssemblyReference.cache
+E:\IMS\HCI ASSIGNMENT\HCI ASSIGNMENT\obj\x86\Debug\HCI ASSIGNMENT.csproj.CoreCompileInputs.cache
+E:\IMS\HCI ASSIGNMENT\HCI ASSIGNMENT\bin\Debug\Guna.UI.dll
+E:\IMS\HCI ASSIGNMENT\HCI ASSIGNMENT\obj\x86\Debug\HCI ASSIGNMENT.csproj.CopyComplete
